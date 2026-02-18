@@ -9,8 +9,9 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 20px 28px;
+    padding: 0.655rem 1.25rem;
     background-color: #ffffff;
+    
 }
 
 .logo a {
@@ -26,6 +27,7 @@
 .nav-right a {
 
     font-size: 1.25rem;
+    color: #333333;
 }
 
 .nav-center a:hover,

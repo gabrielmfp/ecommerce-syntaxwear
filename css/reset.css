@@ -35,6 +35,7 @@ body {
   min-height: 100vh;
   text-rendering: optimizeSpeed;
   line-height: 1.5;
+  margin: 0;
 }
 
 /* Elementos A que não têm uma classe obtêm estilos padrão */
