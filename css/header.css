@@ -1,23 +1,22 @@
 .header {
     position: fixed;
-    top: 20px;
+    top: 80px;
     left: 50%;
     transform: translate(-50%);
-    width: calc(100% - 40px);
+    width: calc(100% - 210px);
     border-radius: 15px;
     z-index: 999;
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 0.655rem 1.25rem;
+    padding: 0.255rem 1.25rem;
     background-color: #ffffff;
     
 }
 
-.logo a {
-    height: 40px;
+.logo img {
+    padding: 4px 0 20px 28px;
 }
-
 .nav-center ul {
     display: flex;
     gap: 2.5rem;

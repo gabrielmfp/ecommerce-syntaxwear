@@ -38,6 +38,12 @@ body {
   margin: 0;
 }
 
+main{
+  padding: 2.5rem 0 0;
+  max-width: 1360px;
+  margin: 1.0rem;
+}
+
 /* Elementos A que não têm uma classe obtêm estilos padrão */
 a:not([class]) {
   text-decoration-skip-ink: auto;
